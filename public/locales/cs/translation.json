@@ -85,6 +85,17 @@
 	},
 
 	"Training": {
-		"Hello, there is nothing here yet!": "Zdravíčko, zatím tu nic není!"
+		"Hello, there is nothing here yet!": "Zdravíčko, zatím tu nic není!",
+		"Detail": "Detail uživatele",
+		"Sessions": "Relace",
+		"Username": "Uživatelské jméno",
+		"Created at": "Vytvořeno",
+		"Last sign in": "Poslední přihlášení",
+		"Expected expiration": "Očekávané vypršení platnosti",
+		"Address": "Adresa",
+		"IPAddress": "IP adresa",
+		"MACAddress": "MAC adresa",
+		"Phone": "Telefonní číslo",
+		"Back to listing": "Zpět na výpis"
 	}
 }

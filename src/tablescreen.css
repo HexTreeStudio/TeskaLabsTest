@@ -1,0 +1,6 @@
+.cel_credentials:hover .row_username  {
+    display: none;
+}
+.cel_credentials:not(:hover) .row_id  {
+    display: none;
+}

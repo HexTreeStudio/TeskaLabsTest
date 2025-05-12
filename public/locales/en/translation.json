@@ -85,6 +85,17 @@
 	},
 
 	"Training": {
-		"Hello, there is nothing here yet!": "Hello, there is nothing here yet!"
+		"Hello, there is nothing here yet!": "Hello, there is nothing here yet!",
+		"Detail": "User detail",
+		"Sessions": "Sessions",
+		"Username": "Username",
+		"Created at": "Created at",
+		"Last sign in": "Last sign in",
+		"Expected expiration": "Expected expiration",
+		"Address": "Address",
+		"IPAddress": "IP Address",
+		"MACAddress": "MAC Address",
+		"Phone": "Phone number",
+		"Back to listing": "Back to listing"
 	}
 }
